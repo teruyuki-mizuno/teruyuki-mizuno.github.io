@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href='https://fonts.googleapis.com/css?family=Space Mono' rel='stylesheet'>
-            <style>
-            body {
-                font-family: 'Space Mono';font-size: 20px;
-            }
-            </style>
-        
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="/assets/css/styles.css">
         <title>{{ page.title }}</title>
     </head>
     <body>
